@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on CS 4331-002 Team 6: HydroCycle</title>
-    <link>./tags/</link>
-    <description>Recent content in Tags on CS 4331-002 Team 6: HydroCycle</description>
+    <title>Tags on CS 4331-002 Project 2 | Team 6: HydroCycle</title>
+    <link>https://webglhitasnag.github.io/tags/</link>
+    <description>Recent content in Tags on CS 4331-002 Project 2 | Team 6: HydroCycle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="./tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://webglhitasnag.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Team 6</title>
+      <link>https://webglhitasnag.github.io/tags/team-6/</link>
+      <pubDate>Fri, 06 Apr 2018 04:54:52 -0500</pubDate>
+      
+      <guid>https://webglhitasnag.github.io/tags/team-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Reality</title>
+      <link>https://webglhitasnag.github.io/tags/virtual-reality/</link>
+      <pubDate>Fri, 06 Apr 2018 04:54:52 -0500</pubDate>
+      
+      <guid>https://webglhitasnag.github.io/tags/virtual-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Water Cycle</title>
+      <link>https://webglhitasnag.github.io/tags/water-cycle/</link>
+      <pubDate>Fri, 06 Apr 2018 04:54:52 -0500</pubDate>
+      
+      <guid>https://webglhitasnag.github.io/tags/water-cycle/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

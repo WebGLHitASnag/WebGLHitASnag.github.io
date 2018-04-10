@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CS 4331-002 Team 6: HydroCycle</title>
-    <link>./</link>
-    <description>Recent content on CS 4331-002 Team 6: HydroCycle</description>
+    <title>CS 4331-002 Project 2 | Team 6: HydroCycle</title>
+    <link>https://webglhitasnag.github.io/</link>
+    <description>Recent content on CS 4331-002 Project 2 | Team 6: HydroCycle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Apr 2018 04:54:52 -0500</lastBuildDate>
     
-	<atom:link href="./index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://webglhitasnag.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>[WIP] HydroCycle - Report</title>
-      <link>./posts/report/</link>
+      <title>HydroCycle - Project 2 Report</title>
+      <link>https://webglhitasnag.github.io/posts/report/</link>
       <pubDate>Fri, 06 Apr 2018 04:54:52 -0500</pubDate>
       
-      <guid>./posts/report/</guid>
-      <description>CS 4331-002 - Virtual Reality Project 2 Due: Thursday, April 12th, 2018 Video Demonstration :soon: :tm: Try it out  Link to project website with download link goes here :soon: :tm:  Project Report We learned&amp;hellip;.  Game development methodology and procedures Most of the development of our game pertained to tasks that were necessary in Project 1 (i.e. model placement and aesthetic design) More about the Hydrologic Cycle than we thought there was  Tools Used  Unity :video_game: Blender :crystal_ball: Audacity :headphones:   Biggest issues  Learning to use Unity and C# without having any prior experience.</description>
+      <guid>https://webglhitasnag.github.io/posts/report/</guid>
+      <description>CS 4331-002 - Virtual Reality Project 2 Due: Thursday, April 12th, 2018 Video Demonstration  
+Try it out  Download the game on our project&amp;rsquo;s website (go back to the home page): https://webglhitasnag.github.io/  Or from the latest release: https://github.com/WebGLHitASnag/VR-Project-2/releases   Project Report We learned&amp;hellip;.  &amp;hellip;game development methodology and procedures. &amp;hellip;that most of the development of our game pertained to tasks that were necessary in Project 1 (i.</description>
     </item>
     
   </channel>
